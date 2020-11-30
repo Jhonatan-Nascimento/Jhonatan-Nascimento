@@ -7,7 +7,8 @@
 
 ## 📖 Sobre mim 
 
-☑️ Sou graduado em Física pelo IFPR e pós-graduado em Business Intelligence, Big Data e Analytics - Ciência de Dados.<br>
+☑️ Sou graduado em Física pelo IFPR<br>  
+☑️ Pós-graduado em Business Intelligence, Big Data e Analytics - Ciência de Dados.<br>
 ☑️ Estudante assíduo de Machine Learning.<br>
 
 ## 💎 Skills
