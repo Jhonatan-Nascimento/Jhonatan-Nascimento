@@ -10,12 +10,12 @@
 ☑️ Sou graduado em Física pelo IFPR e pós-graduado em Business Intelligence, Big Data e Analytics - Ciência de Dados.<br>
 ☑️ Estudante assíduo de Machine Learning.<br>
 
-# 💎 Skills
+## 💎 Skills
 
-🔷 Python
-🔷 Machine Learning
-🔷 Business Intelligence
-🔷 Visualização de Dados
-🔷 SQL
-🔷 Power BI
+🔷 Python<br>
+🔷 Machine Learning<br>
+🔷 Business Intelligence<br>
+🔷 Visualização de Dados<br>
+🔷 SQL<br>
+🔷 Power BI<br>
 
