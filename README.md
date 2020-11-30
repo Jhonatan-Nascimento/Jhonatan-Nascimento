@@ -9,7 +9,7 @@
 
 ☑️ Graduado em Física pelo IFPR<br>
 ☑️ Pós-graduado em Business Intelligence, Big Data e Analytics - Ciência de Dados.<br>
-☑️ Estudante assíduo de Machine Learning.<br>
+☑️ Estudante dedicado de Machine Learning.<br>
 
 ## 💎 Skills
 
