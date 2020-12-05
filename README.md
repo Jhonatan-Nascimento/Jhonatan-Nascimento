@@ -7,9 +7,9 @@
 
 ## 📖 Sobre mim 
 
+☑️ Data Scientist.<br>
 ☑️ Graduado em Física pelo IFPR.<br>
 ☑️ Pós-graduado em Business Intelligence, Big Data e Analytics - Ciência de Dados.<br>
-☑️ Estudante dedicado de Machine Learning.<br>
 
 ## 💎 Skills
 
