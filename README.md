@@ -4,16 +4,19 @@
 
 ## 📖 Sobre mim 
 
-☑️ Data Scientist.<br>
+☑️ Data Scientist / Data Engineer.<br>
 ☑️ Graduado em Física pelo IFPR.<br>
 ☑️ Pós-graduado em Business Intelligence, Big Data e Analytics - Ciência de Dados.<br>
 
 ## 💎 Skills
 
 🔷 Python<br>
+🔷 SQL<br>
+🔷 ETL<br>
+🔷 DBT<br>
+🔷 Airflow<br>
+🔷 Spark<br>
 🔷 Machine Learning<br>
 🔷 Business Intelligence<br>
 🔷 Visualização de Dados<br>
-🔷 SQL<br>
 🔷 Power BI<br>
-🔷 Apache Spark<br>
